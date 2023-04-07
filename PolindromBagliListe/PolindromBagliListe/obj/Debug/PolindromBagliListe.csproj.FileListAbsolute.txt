@@ -1,0 +1,8 @@
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\bin\Debug\PolindromBagliListe.exe.config
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\bin\Debug\PolindromBagliListe.exe
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\bin\Debug\PolindromBagliListe.pdb
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\obj\Debug\PolindromBagliListe.csproj.AssemblyReference.cache
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\obj\Debug\PolindromBagliListe.csproj.SuggestedBindingRedirects.cache
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\obj\Debug\PolindromBagliListe.csproj.CoreCompileInputs.cache
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\obj\Debug\PolindromBagliListe.exe
+C:\Users\const\Desktop\polindrom\PolindromBagliListe\PolindromBagliListe\obj\Debug\PolindromBagliListe.pdb
